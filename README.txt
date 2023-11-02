@@ -1,4 +1,26 @@
-demonstrating predictive modeling using Azure Machine Learning Studio.
+# Ameer Suhail's Portfolio Website
+
+Welcome to my portfolio website! This site showcases a collection of diverse projects I've worked on, and it's built using JavaScript and CSS. Whether you're an employer, a colleague, or just someone interested in my work, this site offers a comprehensive overview of my capabilities.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Projects](#projects)
+3. [Technologies Used](#technologies-used)
+4. [How to Use](#how-to-use)
+5. [Contact](#contact)
+
+## Introduction
+
+This portfolio website serves as a digital resume and a showcase of my projects and skills. I invite you to explore the variety of projects I've completed, each demonstrating different aspects of my capabilities.
+
+## Projects
+
+Explore the projects I've worked on, each highlighting different areas of expertise:
+
+1. **BASIC-GAME-DEVELOPMENT-USING-SCRATCH:** This project involves a simple game created using Scratch, showcasing my game development skills.
+
+2. **PREDICTIVE-MODELING-WITH-AZURE-MACHINE-LEARNING-STUDIO:** Discover a project demonstrating predictive modeling using Azure Machine Learning Studio.
 
 3. **DATA-ENCRYPTION-USING-AWS-KMS-FROM-UST:** Learn about data encryption using AWS Key Management Service (KMS) in this project.
 
