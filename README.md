@@ -52,6 +52,7 @@ You can get in touch with me through the following channels:
 - **Email:** [ameer37218@gmail.com](mailto:ameer37218@gmail.com)
 - **LinkedIn:** [Ameer Suhail - LinkedIn](
 https://www.linkedin.com/in/ameer-suhail-mohammad-29b32823b/)
+
 Thank you for visiting my portfolio website, and I look forward to connecting with you!
 
 ---
